@@ -1,0 +1,79 @@
+Genus,number_accessions,number_available,type,Crop
+Agropyron,2928,25,cereal,Wheat
+Agropyron,2014,9,forage,Agropyron
+Agrostis,569,6,forage,Agrostis
+Alopecurus,1158,2,forage,Alopecurus
+Andropogon,202,54,forage,Andropogon
+Armoracia,152,0,vegetable/seed,Brassica complex
+Arrhenatherum,983,9,forage,Arrhenatherum
+Artocarpus,288,0,fruit,Breadfruit
+Asparagus,801,30,vegetable/seed,Asparagus
+Astragalus,371,4,forage,Astragalus
+Atriplex,202,12,forage,Atriplex
+Avena,78977,2064,cereal,Oat
+Barbarea,752,3,vegetable/seed,Brassica complex
+Beta,9892,69,vegetable/seed,Beet
+Brassica,47522,1709,vegetable/seed,Brassica complex
+Cajanus,17191,15419,legume,Pigeon Pea
+Camelina,1130,4,vegetable/seed,Brassica complex
+Canavalia,156,23,forage,Canavalia
+Cicer,72213,20606,legume,Chickpea
+Citrus,2284,0,fruit,Citrus
+Cocos,216,0,fruit,Coconut
+Colocasia,1708,0,root/tuber,Major aroids
+Coronilla,263,0,forage,Coronilla
+Crambe,785,19,vegetable/seed,Brassica complex
+Dactylis,18976,96,forage,Dactylis
+Daucus,7440,65,vegetable/seed,Carrot
+Dioscorea,5023,3201,root/tuber,Yams
+Diplotaxis,478,9,vegetable/seed,Brassica complex
+Eleusine,14326,9739,cereal,Finger Millet
+Elymus,5258,56,cereal,Wheat
+Eruca,1341,2,vegetable/seed,Brassica complex
+Festuca,21315,134,forage,Festuca
+Fragaria,6045,6,fruit,Strawberry
+Hedysarum,239,2,forage,Hedysarum
+Helianthus,17773,45,vegetable/seed,Sunflower
+Hordeum,308037,14304,cereal,Barley
+Ipomoea,5304,1254,root/tuber,Sweet Potato
+Isatis,319,9,vegetable/seed,Brassica complex
+Lathyrus,11641,153,forage,Lathyrus
+Lathyrus,16925,215,legume,Grass pea
+Lens,38157,16,legume,Lentil
+Lepidium,1169,38,vegetable/seed,Brassica complex
+Lespedeza,120,8,forage,Lespedeza
+Lolium,24998,216,forage,Lolium
+Lotus,4291,36,forage,Lotus
+Lupinus,17996,1543,forage,Lupinus
+Malus,51178,528,fruit,Apple
+Manihot,15042,2930,root/tuber,Cassava
+Medicago,29445,555,forage,Medicago
+Melilotus,3247,115,forage,Melilotus
+Musa,3261,1251,fruit,Banana/Plantain
+Onobrychis,1258,11,forage,Onobrychis
+Ornithopus,342,1,forage,Ornithopus
+Oryza,270955,146801,cereal,Rice
+Pennisetum,32409,23560,cereal,Pearl Millet
+Phalaris,1865,38,forage,Phalaris
+Phaseolus,169108,35318,legume,Beans
+Pisum,68882,6185,legume,Pea
+Poa,8584,24,forage,Poa
+Prosopis,102,69,forage,Prosopis
+Pueraria,315,195,forage,Pueraria
+Raphanus,5498,161,vegetable/seed,Brassica complex
+Rorippa,99,22,vegetable/seed,Brassica complex
+Salsola,22,1,forage,Salsola
+Secale,18725,468,cereal,Rye
+Secale,18725,468,cereal,Wheat
+Sinapis,2009,0,vegetable/seed,Brassica complex
+Solanum,117710,14673,vegetable/seed,Eggplant
+Solanum,117710,14673,root/tuber,Potato
+Sorghum,132653,45218,cereal,Sorghum
+Trifolium,44045,450,forage,Trifolium
+Tripsacum,4,0,forage,Tripsacum
+Triticosecale,13434,6108,cereal,Triticale
+Triticum,560230,93823,cereal,Wheat
+Vicia,64453,733,legume,Faba Bean/Vetch
+Vigna,86959,37408,legume,Cowpea et al.
+Xanthosoma,86,0,root/tuber,Major aroids
+Zea,174594,35698,cereal,Maize

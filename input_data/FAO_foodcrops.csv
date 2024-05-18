@@ -1,0 +1,51 @@
+genus,crop_name,type,notes
+Artocarpus,Breadfruit,fruit,Breadfruit only.
+Asparagus,Asparagus,other,
+Avena,Oat,cereal,
+Beta,Beet,other,
+Brassica,Brassica complex,other,
+Armoracia,Brassica complex,other,
+Barbarea,Brassica complex,other,
+Camelina,Brassica complex,other,
+Crambe,Brassica complex,other,
+Diplotaxis,Brassica complex,other,
+Eruca,Brassica complex,other,
+Isatis,Brassica complex,other,
+Lepidium,Brassica complex,other,Lepidium meyenii (maca) is excluded.
+Raphanus,Brassica complex,other,
+Rorippa,Brassica complex,other,
+Sinapis,Brassica complex,other,
+Cajanus,Pigeon Pea,legume,
+Cicer,Chickpea,legume,
+Citrus,Citrus,fruit,Genera Poncirus and Fortunella are included as root stock.
+Cocos,Coconut,fruit,
+Xanthosoma,Major aroids,root/tuber,
+Colocasia,Major aroids,root/tuber,"Major aroids include taro, cocyam, dasheen and tannia."
+Daucus,Carrot,other,
+Dioscorea,Yams,root/tuber,
+Eleusine,Finger Millet,cereal,
+Fragaria,Strawberry,fruit,
+Helianthus,Sunflower,other,
+Hordeum,Barley,cereal,
+Ipomoea,Sweet Potato,root/tuber,
+Lathyrus,Grass pea,legume,
+Lens,Lentil,legume,
+Malus,Apple,fruit,
+Manihot,Cassava,root/tuber,Manihot esculenta only.
+Musa,Banana/Plantain,fruit,Except Musa textilis.
+Oryza,Rice,cereal,
+Pennisetum,Pearl Millet,cereal,
+Phaseolus,Beans,legume,Except Phaseolus polyanthus.
+Pisum,Pea,legume,
+Secale,Rye,cereal,
+Solanum,Potato,root/tuber,"Section tuberosa included, except Solanum phureja."
+Solanum,Eggplant,other,Section melongena included.
+Sorghum,Sorghum,cereal,
+Triticosecale,Triticale,cereal,
+Agropyron,Wheat,cereal,
+Triticum,Wheat,cereal,
+Elymus,Wheat,cereal,
+Secale,Wheat,cereal,
+Vicia,Faba Bean/Vetch,legume,
+Vigna,Cowpea et al.,legume,
+Zea,Maize,cereal,"Excluding Zea perennis, Zea diploperennis, and Zea luxurians"

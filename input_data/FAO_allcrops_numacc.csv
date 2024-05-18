@@ -1,0 +1,64 @@
+Crop,type,number_accessions,number_available,group
+Barley,cereal,308037,14304,1
+Finger Millet,cereal,14326,9739,1
+Maize,cereal,174594,35698,1
+Oat,cereal,78977,2064,1
+Pearl Millet,cereal,32409,23560,1
+Rice,cereal,270955,146801,1
+Rye,cereal,18725,468,1
+Sorghum,cereal,132653,45218,1
+Triticale,cereal,13434,6108,1
+Wheat,cereal,587141,94372,1
+Agropyron,forage,2014,9,2
+Agrostis,forage,569,6,2
+Alopecurus,forage,1158,2,2
+Andropogon,forage,202,54,2
+Arrhenatherum,forage,983,9,2
+Astragalus,forage,371,4,2
+Atriplex,forage,202,12,2
+Canavalia,forage,156,23,2
+Coronilla,forage,263,0,2
+Dactylis,forage,18976,96,2
+Festuca,forage,21315,134,2
+Hedysarum,forage,239,2,2
+Lathyrus,forage,11641,153,2
+Lespedeza,forage,120,8,2
+Lolium,forage,24998,216,2
+Lotus,forage,4291,36,2
+Lupinus,forage,17996,1543,2
+Medicago,forage,29445,555,2
+Melilotus,forage,3247,115,2
+Onobrychis,forage,1258,11,2
+Ornithopus,forage,342,1,2
+Phalaris,forage,1865,38,2
+Poa,forage,8584,24,2
+Prosopis,forage,102,69,2
+Pueraria,forage,315,195,2
+Salsola,forage,22,1,2
+Trifolium,forage,44045,450,2
+Tripsacum,forage,4,0,2
+Apple,fruit,51178,528,2
+Banana/Plantain,fruit,3261,1251,2
+Breadfruit,fruit,288,0,2
+Citrus,fruit,2284,0,2
+Coconut,fruit,216,0,2
+Strawberry,fruit,6045,6,2
+Beans,legume,169108,35318,1
+Chickpea,legume,72213,20606,1
+Cowpea et al.,legume,86959,37408,1
+Faba Bean/Vetch,legume,64453,733,1
+Grass pea,legume,16925,215,1
+Lentil,legume,38157,16,1
+Pea,legume,68882,6185,1
+Pigeon Pea,legume,17191,15419,1
+Cassava,root/tuber,15042,2930,1
+Major aroids,root/tuber,1794,0,1
+Potato,root/tuber,117710,14673,1
+Sweet Potato,root/tuber,5304,1254,1
+Yams,root/tuber,5023,3201,1
+Asparagus,vegetable/seed,801,30,2
+Beet,vegetable/seed,9892,69,2
+Brassica complex,vegetable/seed,61254,1976,2
+Carrot,vegetable/seed,7440,65,2
+Eggplant,vegetable/seed,117710,14673,2
+Sunflower,vegetable/seed,17773,45,2

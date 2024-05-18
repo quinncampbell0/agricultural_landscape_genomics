@@ -1,0 +1,13 @@
+Crop,status,count,coord
+Maize,wild_weedy,1500,9258.410781
+Maize,landrace,59599,29799.50922
+Maize,improved,54271,27915.77676
+Barley,wild_weedy,15602,26005.06743
+Barley,landrace,55811,40221.09571
+Barley,improved,139907,69953.52165
+Sorghum,wild_weedy,1778,9073.470582
+Sorghum,landrace,57665,28832.50892
+Sorghum,improved,18962,15148.93205
+Bean,wild_weedy,5111,13092.19902
+Bean,landrace,77060,38530.01192
+Bean,improved,27789,21110.08282
